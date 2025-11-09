@@ -1,4 +1,9 @@
+# Игнорировать файлы (.venv)
 .venv
 
 # Игнорировать файлы настроек Finder на macOS
 .DS_Store
+
+# Игнорировать файлы __pycache__/ и *.pyc
+__pycache__/
+*.pyc
